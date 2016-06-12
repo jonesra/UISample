@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UISample</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_name">rawle</string>
+    <string name="cs_639">CS 639</string>
+    <string name="firstname">Rawle</string>
+    <string name="lastname">Jones</string>
+
+</resources>
